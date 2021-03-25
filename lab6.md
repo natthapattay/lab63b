@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=T26DVHePlTs
 
 3.ทำการอัปโหลดโปรแกรมเข้าไมโครคอนโทรลเลอร์แล้วรันโปรแกรม
      
-     ![image](https://user-images.githubusercontent.com/80881207/112422690-d7fea280-8d63-11eb-87a9-d78ee0489334.png)
+![image](https://user-images.githubusercontent.com/80881207/112422690-d7fea280-8d63-11eb-87a9-d78ee0489334.png)
 ![image](https://user-images.githubusercontent.com/80881207/112422702-dc2ac000-8d63-11eb-8eb7-36aaaedca151.png)
 ![image](https://user-images.githubusercontent.com/80881207/112422707-dfbe4700-8d63-11eb-9cfc-1bea78a92267.png)
 

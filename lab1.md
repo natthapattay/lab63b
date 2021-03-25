@@ -13,13 +13,17 @@
 2. https://platformio.org/
 # วิธีการทำการทดลอง
 1. เชื่อมไมโครคอนโทรลเลอร์เข้ากับserial port
+
 ![image](https://user-images.githubusercontent.com/80881207/112421668-0f6c4f80-8d62-11eb-80f3-b93a102cebd0.png)
 2. เลือกตัวอย่างโปรแกรมที่ต้องการใช้ในที่นี้จะเลือกตัวอย่างที่ 1 โดยการพิมพ์ cd 01_Serial-Monitor แล้วตามด้วย  vi src/main.cpp
 3. จากโค้ดจะเห็นว่ามี 15 บรรทัด แบ่งได้เป็น 2 ส่วนคือส่วน set up และส่วน loop 
+ 
  ![image](https://user-images.githubusercontent.com/80881207/112421677-14c99a00-8d62-11eb-966e-c463da7ec23c.png)
 4. กดปุ่มดำเพื่อให้ไมโครคอนโทรลเลอร์รับคำสั่งและกดปุ่มสีแดงเพื่อ reset
+ 
  ![image](https://user-images.githubusercontent.com/80881207/112421693-1eeb9880-8d62-11eb-975f-39ed65502768.png)
 5. ใช้คำสั่ง pio device monitor จะได้ผลลัพธ์แสดงผลออกมา
+
 ![image](https://user-images.githubusercontent.com/80881207/112421705-23b04c80-8d62-11eb-85f5-5ccd4ee129e1.png)
 # การบันทึกผลการทดลอง
 คำสั่งต่างๆที่ใช้ในการทดลอง
